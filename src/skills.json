@@ -1,0 +1,38 @@
+[
+    {
+      "title": "html",
+      "imageSrc": "/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "/skills/java.png"
+    },
+    {
+      "title": "TailWind Css",
+      "imageSrc": "/skills/icons8-tailwind-css-100.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "/skills/react.png"
+    },
+    {
+      "title": "NodeJs",
+      "imageSrc": "/skills/node.png"
+    },
+    {
+      "title": "ExpressJs",
+      "imageSrc": "/skills/icons8-express-js-50.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "/skills/mongodb.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "/skills/icons8-github-30.png"
+    }
+  ]
