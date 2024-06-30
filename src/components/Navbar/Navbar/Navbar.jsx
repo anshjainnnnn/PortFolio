@@ -2,8 +2,8 @@ import { useState } from "react";
 
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../../utils";
-const hehe = "../../../../assests/navbar/icons8-menu-50.png"
-const haha = "../../../../assests/navbar/icons8-close-window-50.png"
+const hehe = "../assests/navbar/icons8-menu-50.png"
+const haha = "../assests/navbar/icons8-close-window-50.png"
 
 
 

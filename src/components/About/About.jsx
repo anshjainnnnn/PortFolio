@@ -1,10 +1,10 @@
 import React from "react";
 import styles from "./About.module.css";
-const frfr = "../../../assests/about/icons8-front-end-64.png"
-const abab= "../../../assests/about/6f2c871450df41b7b78b7258350da7e4.jpeg"
+const frfr = "../assests/about/icons8-front-end-64.png"
+const abab= "../assests/about/6f2c871450df41b7b78b7258350da7e4.jpeg"
 import { getImageUrl } from "../../utils";
-const bubu = "../../../assests/about/serverIcon.png"
-const cucu = "../../../assests/about/cursorIcon.png"
+const bubu = "../assests/about/serverIcon.png"
+const cucu = "../assests/about/cursorIcon.png"
 
 export const About = () => {
   return (

@@ -1,1 +1,1 @@
-export const getImageUrl = (path) => `../assests/${path}`;
+export const getImageUrl = (path) => `../src/assests/${path}`;
